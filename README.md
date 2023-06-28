@@ -16,5 +16,6 @@ This is a short analysis of tornado data over time. This was performed as an int
 <img src=https://github.com/aepritchard/tornado_project_2023/assets/84472325/58c82ae5-b3d8-4137-b9b7-f0d692ee41ce width="400" />
 
 ### Trends over time
-![tornado counts fatalities](https://github.com/aepritchard/tornado_project_2023/assets/84472325/4fee4f16-5d44-48d5-be55-cebceaf790ba)
-![tornado counts month](https://github.com/aepritchard/tornado_project_2023/assets/84472325/ef742927-f47b-4deb-88eb-5a1f45c084e9)
+<img src=https://github.com/aepritchard/tornado_project_2023/assets/84472325/4fee4f16-5d44-48d5-be55-cebceaf790ba width="600" />
+
+<img src=https://github.com/aepritchard/tornado_project_2023/assets/84472325/ef742927-f47b-4deb-88eb-5a1f45c084e9 width="800" />
